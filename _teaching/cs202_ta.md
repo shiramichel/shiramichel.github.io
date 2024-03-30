@@ -1,7 +1,7 @@
 ---
-title:
+title: "CS202 Problem-Solving with Algorithms and Programming II"
 collection: teaching
-type: "CS202 Problem-Solving with Algorithms and Programming II "
+type: "Undergraduate Course"
 permalink: /teaching/cs202_ta
 venue: "Teaching and Lab Assistant"
 date: "(Mar 2021 - Jun 2021)"
