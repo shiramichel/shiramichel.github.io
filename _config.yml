@@ -21,7 +21,7 @@ repository               : "shiramichel/shiramichel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic.jpeg"
+  avatar           : "profilepic.JPG"
   name             : "Shira Michel"
   pronouns         : "she/her"  
   bio              : "Computer Science PhD Student"
