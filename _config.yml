@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shira Michel 🪴"
+title                    : "Shira L. Michel 🪴"
 title_separator          : "-"
-name                     : &name "Shira Michel"
+name                     : &name "Shira L. Michel"
 description              : &description "personal description"
 url                      : https://shiramichel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "shiramichel/shiramichel.github.io"
 author:
   # Biographic information
   avatar           : "profilepic.JPG"
-  name             : "Shira Michel"
+  name             : "Shira L. Michel"
   pronouns         : "she/her"  
   bio              : "Computer Science PhD Student"
   location         : "Boston, MA"
