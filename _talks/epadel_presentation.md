@@ -4,6 +4,6 @@ collection: talks
 type: "Presentation"
 permalink: /talks/epadel_presentation
 venue: "MAA EPaDel"
-date: 2022-03
+date: 2022
 location: "Virtual"
 ---
