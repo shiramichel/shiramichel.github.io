@@ -1,4 +1,5 @@
 ---
+title:
 collection: teaching
 type: "CS202 Problem-Solving with Algorithms and Programming II "
 permalink: /teaching/cs202_ta
