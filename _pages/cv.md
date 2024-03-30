@@ -16,6 +16,10 @@ Education
 
 Experience
 ======
+* Undergraduate Researcher (May 2021 - May 2023)
+  * Arcadia University
+  * Advisors: [Dr. Weihong Ni](https://www.arcadia.edu/faculty-and-staff/weihong-ni/), [Dr. Yanxia Jia](https://www.arcadia.edu/faculty-and-staff/yanxia-jia/), and [Dr. Hsin Hua (Cathy) Lee](https://www.arcadia.edu/faculty-and-staff/cathy-lee/)
+
 * Data Science Intern (Sep 2022 - Aug 2023)
   * Office of Institutional Research and Effectiveness, Arcadia University
 
