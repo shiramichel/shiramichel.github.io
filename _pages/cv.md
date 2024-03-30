@@ -21,7 +21,7 @@ Experience
 
 * REU Undergraduate Researcher (Jun 2022 - Jul 2022)
   * Brown University
-  * Advisor: Professor Bjorn Sandstede
+  * Advisor: [Dr. Bjorn Sandstede](https://bjornsandstede.com/about.html)
 
 * Data Analyst Intern (Jan 2021 - Apr 2021)
   * Molzana
