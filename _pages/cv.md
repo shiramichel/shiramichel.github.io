@@ -50,7 +50,4 @@ Awards and Honors
 * Summa Cum Laude with Departmental Honors, Arcadia University (May 2023)
 * Sigma Zeta Award in Computer Science, Arcadia University (Apr 2023)
 * Phi Beta Delta (Nov 2020)
-  
-Service and leadership
-======
-#* Currently signed in to 43 different slack teams
+
