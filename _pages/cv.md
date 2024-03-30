@@ -26,11 +26,11 @@ Experience
 * Data Analyst Intern (Jan 2021 - Apr 2021)
   * Molzana
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+  #<ul>{% for post in site.publications reversed %}
+    #{% include archive-single-cv.html %}
+  #{% endfor %}</ul>
   
 Talks
 ======
