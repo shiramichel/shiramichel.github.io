@@ -11,35 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Northeastern University, 2028 (expected)
+* B.S. in Data Science, Arcadia University, 2023
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Data Science Intern (Sep 2022 - Aug 2023)
+  * Office of Institutional Research and Effectiveness, Arcadia University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* REU Undergraduate Researcher (Jun 2022 - Jul 2022)
+  * Brown University
+  * Advisor: Professor Bjorn Sandstede
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Analyst Intern (Jan 2021 - Apr 2021)
+  * Molzana
 
 Publications
 ======
@@ -58,7 +43,14 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards and Honors
+======
+* Khoury Distinguished Fellowship, Northeastern University (Sep 2023 - present)
+* Summa Cum Laude with Departmental Honors, Arcadia University (May 2023)
+* Sigma Zeta Award in Computer Science, Arcadia University (Apr 2023)
+* Phi Beta Delta (Nov 2020)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+#* Currently signed in to 43 different slack teams
