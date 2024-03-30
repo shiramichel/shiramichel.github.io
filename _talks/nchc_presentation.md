@@ -4,6 +4,6 @@ collection: talks
 type: "Presentation"
 permalink: /talks/sepche_presentation
 venue: "57th Annual National Collegiate Honors Council (NCHC) Conference"
-date: 2022
+date: 2022-11-03
 location: "Dallas, TX"
 ---
