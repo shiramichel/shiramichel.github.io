@@ -1,4 +1,5 @@
 ---
+title:
 collection: teaching
 type: "CS229 Introduction to Data Science with R"
 permalink: /teaching/cs229_ta
