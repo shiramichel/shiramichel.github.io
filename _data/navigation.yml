@@ -3,13 +3,13 @@ main:
   #- title: "Publications"
     #url: /publications/
 
-  - title: "CV"
+  - title: "CV 📄"
     url: /cv/
 
-  - title: "Talks"
+  - title: "Talks 🗣️"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching 📚"
     url: /teaching/    
     
   #- title: "Portfolio"
