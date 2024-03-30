@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/cs202_ta
 venue: "Teaching and Lab Assistant"
-date: "(Mar 2021 - Jun 2021)"
+date: 2021
 location: "Glenside, PA"
 ---
 
