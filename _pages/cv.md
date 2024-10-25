@@ -44,7 +44,7 @@ Teaching
 
 Awards and Honors
 ======
-* Khoury Distinguished Fellowship, Northeastern University (Sep 2023 - present)
+* Khoury Distinguished Fellowship, Northeastern University (Sep 2023 - Aug 2024)
 * Summa Cum Laude with Departmental Honors, Arcadia University (May 2023)
 * Sigma Zeta Award in Computer Science, Arcadia University (Apr 2023)
 * Phi Beta Delta (Nov 2020)
