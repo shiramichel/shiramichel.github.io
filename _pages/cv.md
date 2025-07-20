@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Northeastern University, 2028 (expected)
-* Master in Computer Science, Northeastern University, 2025 (expected
+* Master in Computer Science, Northeastern University, 2025 (expected)
 * B.S. in Data Science, Arcadia University, 2023
 
 Experience
