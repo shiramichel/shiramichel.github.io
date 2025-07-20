@@ -3,7 +3,5 @@ title: "`It's not a representation of me': Examining Accent Bias and Digital Exc
 collection: talks
 type: "Presentation"
 permalink: /talks/aiSpeechBias
-venue: "RIET Lab, CNTR Tech + Society Seminar, ACM FAccT 2025 "
-date: 2025-01-01
-location: "Virtual, In-person"
+venue: "RIET Lab, CNTR Tech + Society Seminar, ACM FAccT 2025"
 ---
