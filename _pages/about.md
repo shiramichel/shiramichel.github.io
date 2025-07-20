@@ -11,9 +11,20 @@ I am a Computer Science PhD candidate at [Northeastern University](https://www.n
 
 I graduated from [Arcadia University](https://www.arcadia.edu/) in 2023 with a B.S. in Data Science and a minor in Computer Science. 
 
+In my free time, I enjoy pilates, cooking and baking, and taking care of my growing plant collection!
+
+### Please reach out!
 I am always happy to connect with and mentor students, especially those similar to me from SLACs (small liberal arts college) or FGLI (first generation, low income) backgrounds, who are interested in research.
 
-Outside of research, I enjoy taking indoor spin classes and pilates, cooking and baking, and taking care of my growing plant collection!
-
 ### News
+6/2025: I presented my first first-author paper at ACM FAccT 2025 and was a student volunteer.
+4/2025: I presented my SRC poster presentation at ACM SAC 2025 and received the ACM Travel Grant.
+3/2025: I was a guest speaker at Brown's CNT Tech & Society Seminar
+12/2024: I presented my poster presentation at CS Maine
+11/2024: I was a guest speaker at the RIET lab
+8/2024: I participated in the Boston VIS Summer School
+7/2024: I attended Maine CS Education Summit at University of Maine
+6/2024: I attended Accelerate: Data for Social Impact Conference at Harvard University
+
+
 
