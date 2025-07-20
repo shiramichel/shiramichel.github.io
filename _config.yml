@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shira L. Michel 🪴"
+title                    : "Shira Michel 🪴"
 title_separator          : "-"
-name                     : &name "Shira L. Michel"
+name                     : &name "Shira Michel"
 description              : &description "personal description"
 url                      : https://shiramichel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,19 +22,19 @@ repository               : "shiramichel/shiramichel.github.io"
 author:
   # Biographic information
   avatar           : "profilepic.JPG"
-  name             : "Shira L. Michel"
+  name             : "Shira Michel"
   pronouns         : "she/her"  
-  bio              : "Computer Science PhD Student"
-  location         : "Boston, MA"
-  employer         : "Northeastern University"
+  bio              : "Computer Science PhD Candidate"
+  location         : "Portland, ME"
+  employer         : "The Roux Institute at Northeastern University"
   uri              : # URL
   email            : "michel.sh@northeastern.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=0w2XV3cAAAAJ"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-2143-991X"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "@shiramichel.bsky.social‬" 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
