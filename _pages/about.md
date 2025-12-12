@@ -21,6 +21,8 @@ I am always happy to connect with and mentor students, especially those similar 
 
 10/2025: Attended Foundations for the Digital Commons: Aligning Technology, Law, and Innovation for the Common Good
 
+9/2025: Became mentor for [Code to PhD](https://codetophd.github.io/) Application Mentorship Program
+
 7/2025: Officially became a PhD candidate 
 
 6/2025: Presented my first first-author paper at ACM FAccT 2025 and was a student volunteer
