@@ -1,7 +1,8 @@
 ---
 layout: redirect
 author_profile: true
-redirect: /files/Michel_CV_DEC25.pdf
+redirect from: 
+- /files/Michel_CV_DEC25.pdf
 permalink: /cv/
 ---
 
