@@ -1,9 +1,7 @@
 ---
 layout: redirect
 author_profile: true
-redirect from: 
-- /files/Michel_CV_DEC25.pdf
-permalink: /cv/
+permalink: /files/Michel_CV_DEC25.pdf
 ---
 
 {% include base_path %}
