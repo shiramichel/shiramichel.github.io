@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science PhD candidate at [Northeastern University](https://www.northeastern.edu/) in [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) and a member of the [Human-Data Interaction Team (HDI)](https://humandatainteraction.sites.northeastern.edu/) at the [Roux Institute](https://roux.northeastern.edu/). I am advised by [Dr. Mahsan Nourani](https://mahsan.page/#/About%20Me) and [Dr. Christo Wilson](https://cbw.sh/). My interests are broadly in Human-Centered Artificial Intelligence (HCAI) and Responsible AI. Specifically, I research how cognitive biases manifest during people's interactions with large language models (LLMs) in help-seeking and information-seeking contexts. I aim to design and develop interventions to address these biases.
+I am a Computer Science PhD candidate at [Northeastern University](https://www.northeastern.edu/) in [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) and a member of the [Human-Data Interaction Team (HDI)](https://humandatainteraction.sites.northeastern.edu/) at the [Roux Institute](https://roux.northeastern.edu/). I am advised by [Dr. Mahsan Nourani](https://mahsan.page/#/About%20Me) and [Dr. Christo Wilson](https://cbw.sh/). My interests are broadly in Human-Centered Artificial Intelligence (HCAI) and Responsible AI. Specifically, I focus on how "place" shapes AI adoption and impact. I define place broadly: the lived experiences of individuals, the characteristics of their communities, and their local values. Through this lens, I center voices from underrepresented communities and create pathways toward AI systems that are contextually relevant and equitable
 
 I graduated from [Arcadia University](https://www.arcadia.edu/) in 2023 with a B.S. in Data Science and a minor in Computer Science. 
 
@@ -17,6 +17,10 @@ In my free time, I enjoy doing pilates, cooking and baking, and taking care of m
 I am always happy to connect with and mentor students, especially those similar to me from SLACs (small liberal arts college) or FGLI (first generation, low income) backgrounds, who are interested in research.
 
 ### News
+12/2025: Attended Maine EdTech Women’s Network
+
+10/2025: Attended Foundations for the Digital Commons: Aligning Technology, Law, and Innovation for the Common Good
+
 7/2025: Officially became a PhD candidate 
 
 6/2025: Presented my first first-author paper at ACM FAccT 2025 and was a student volunteer
