@@ -1,7 +1,0 @@
----
-title: "`It's not a representation of me': Examining Accent Bias and Digital Exclusion in Synthetic AI Voice Services"
-collection: talks
-type: "Presentation"
-permalink: /talks/aiSpeechBias
-venue: "RIET Lab, CNTR Tech + Society Seminar, ACM FAccT 2025"
----

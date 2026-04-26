@@ -1,9 +1,12 @@
 ---
-layout: default
-author_profile: false
+layout: cv
 permalink: /cv/
+title: CV
+nav: true
+nav_order: 5
+cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+cv_format: pdf # options: rendercv, jsonresume
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
 ---
-
-<iframe src="{{ site.baseurl }}/files/Michel_CV_JAN26.pdf" width="100%" height="800px" style="border: none;">
-    <p> <a href="{{ site.baseurl }}/files/Michel_CV_DEC25.pdf"></a></p>
-</iframe>

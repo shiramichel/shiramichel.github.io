@@ -1,47 +1,30 @@
 ---
+layout: about
+title: about
 permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: <a href='#'>Khoury College of Computer Sciences</a>. The Roux Institute at Northeastern University.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Computer Science PhD candidate at [Northeastern University](https://www.northeastern.edu/) in [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) and a member of the [Human-Data Interaction Team (HDI)](https://humandatainteraction.sites.northeastern.edu/) at the [Roux Institute](https://roux.northeastern.edu/). I am advised by [Dr. Mahsan Nourani](https://mahsan.page/#/About%20Me) and [Dr. Christo Wilson](https://cbw.sh/). My interests are broadly in Human-Centered Artificial Intelligence (HCAI) and Responsible AI. Specifically, I focus on how "place" shapes AI adoption and impact. I define place broadly: the lived experiences of individuals, the characteristics of their communities, and their local values. Through this lens, I center voices from underrepresented communities and create pathways toward AI systems that are contextually relevant and equitable.
+I am a Computer Science PhD candidate at Northeastern University in Khoury College of Computer Sciences and a member of the Human-Data Interaction Team (HDI) at the Roux Institute where I am advised by [Dr. Mahsan Nourani](http://mahsan.page). My interests are broadly in Human-Centered Artificial Intelligence (HCAI) and Responsible AI. Specifically, I take a community-centered approach to how AI, particularly generative AI, is designed, adopted, and used. This lens considers the lived experiences of individuals, the characteristics of their communities, and their local values.
 
-I graduated from [Arcadia University](https://www.arcadia.edu/) in 2023 with a B.S. in Data Science and a minor in Computer Science. 
+A central question driving my work is: who gets to shape AI, and who gets shaped by it? My research so far has found that underserved and underrepresented communities are often excluded from conversations about AI adoption and at the same time, are frequently misrepresented in AI-generated outputs. By centering community voices, I create pathways towards AI systems that are equitable and contextually relevant to the people they are meant to serve.
 
-In my free time, I enjoy doing pilates, cooking and baking, and taking care of my growing plant collection!
-
-### Please reach out!
-I am always happy to connect with and mentor students, especially those similar to me from SLACs (small liberal arts college) or FGLI (first generation, low income) backgrounds, who are interested in research.
-
-### News
-12/2025: Attended Maine EdTech Women’s Network
-
-10/2025: Attended Foundations for the Digital Commons: Aligning Technology, Law, and Innovation for the Common Good
-
-9/2025: Became mentor for [Code to PhD](https://codetophd.github.io/) Application Mentorship Program
-
-7/2025: Officially became a PhD candidate 
-
-6/2025: Presented my first first-author paper at ACM FAccT 2025 and was a student volunteer
-
-5/2025: Moved to Portland to complete my candidacy at the Roux Institute
-
-4/2025: Presented my SRC poster presentation at ACM SAC 2025 and received the ACM Travel Grant
-
-3/2025: Guest speaker at Brown's CNT Tech & Society Seminar
-
-12/2024: Presented my poster presentation at CS Maine
-
-11/2024: Guest speaker at the RIET lab
-
-8/2024: Participated in the Boston VIS Summer School
-
-7/2024: Attended Maine CS Education Summit at University of Maine
-
-6/2024: Attended Accelerate: Data for Social Impact Conference at Harvard University
-
-
-
+**I am always happy to connect with and mentor students, especially those similar to me from SLACs (small liberal arts college) or FGLI (first generation, low income) backgrounds, who are interested in research.**
