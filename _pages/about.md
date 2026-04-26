@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Computer Science PhD candidate at Northeastern University in Khoury College of Computer Sciences and a member of the Human-Data Interaction Team (HDI) at the Roux Institute where I am advised by ([Dr. Mahsan Nourani](http://mahsan.page)). My interests are broadly in Human-Centered Artificial Intelligence (HCAI) and Responsible AI. Specifically, I take a community-centered approach to how AI, particularly generative AI, is designed, adopted, and used. This lens considers the lived experiences of individuals, the characteristics of their communities, and their local values.
+I am a Computer Science PhD candidate at Northeastern University in Khoury College of Computer Sciences and a member of the Human-Data Interaction Team (HDI) at the Roux Institute where I am advised by [Dr. Mahsan Nourani](http://mahsan.page). My interests are broadly in Human-Centered Artificial Intelligence (HCAI) and Responsible AI. Specifically, I take a community-centered approach to how AI, particularly generative AI, is designed, adopted, and used. This lens considers the lived experiences of individuals, the characteristics of their communities, and their local values.
 
 A central question driving my work is: who gets to shape AI, and who gets shaped by it? My research so far has found that underserved and underrepresented communities are often excluded from conversations about AI adoption and at the same time, are frequently misrepresented in AI-generated outputs. By centering community voices, I create pathways towards AI systems that are equitable and contextually relevant to the people they are meant to serve.
 
