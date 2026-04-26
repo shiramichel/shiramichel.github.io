@@ -23,6 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Computer Science PhD candidate at Northeastern University in Khoury College of Computer Sciences, where I am advised by [Dr. Mahsan Nourani](http://mahsan.page). My research interests are broadly in **Human-Centered Artificial Intelligence (HCAI)** and **Responsible AI**. Specifically, I take a community-centered approach to understanding how *generative AI* is **designed** and **adopted**, with particular attention to **communities who have historically been excluded from or harmed by the use** of these systems.
+I am a Computer Science PhD candidate at Northeastern University in Khoury College of Computer Sciences, where I am advised by [Dr. Mahsan Nourani](http://mahsan.page). My research interests are broadly in **Human-Centered Artificial Intelligence (HCAI)** and **Responsible AI**. Specifically, I take a **community-centered approach** to understanding how *generative AI* is *designed*, *adopted*, and *interacted* with by **underrepresented groups who have been excluded from or harmed by** these systems
 
 **I am always happy to connect with and mentor students, especially those similar to me from SLACs (small liberal arts college) or FGLI (first generation, low income) backgrounds, who are interested in research.**
