@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>michel.sh *[at]* northeastern.edu</p>
     <p>The Roux Institute at Northeastern University</p>
     <p>Portland, Maine</p>
 
