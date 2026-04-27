@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09
+date: 2024-06-06
 inline: true
 related_posts: false
 ---
 
-Started my doctoral studies and now living in Boston 🏙️
+Attended Accelerate: Data for Social Impact Conference at Harvard University
