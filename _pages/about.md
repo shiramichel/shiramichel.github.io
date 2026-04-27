@@ -20,7 +20,7 @@ announcements:
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 25 # leave blank to include all the blog posts
 ---
 
 I am a **Computer Science PhD candidate** at Northeastern University in Khoury College of Computer Sciences, where I am advised by [Dr. Mahsan Nourani](http://mahsan.page). My research interests are broadly in **Human-Centered Artificial Intelligence (HCAI)** and **Responsible AI**. Specifically, I take a **community-centered approach** to understanding how *generative AI* is designed, adopted, and interacted with by **underrepresented groups who have been excluded from or harmed by** these systems.
