@@ -37,3 +37,8 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+// Make icons smaller
+.profile .social .contact-icons a i {
+  font-size: 1.2rem;
+}
