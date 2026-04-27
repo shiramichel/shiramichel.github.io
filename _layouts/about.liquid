@@ -21,7 +21,8 @@ layout: default
           {% if page.profile.image_circular %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
           {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% assign profile_image_class = 'img-fluid z-depth-1
+      rounded' %}
           {% endif %}
           {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
       30vw, 95vw"{% endcapture %}
@@ -32,11 +33,6 @@ layout: default
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
-        {% endif %}
-        {% if page.social %}
-          <div class="social">
-            <div class="contact-icons">{% social_links %}</div>
-          </div>
         {% endif %}
       </div>
     {% endif %}
@@ -62,9 +58,12 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
-    <!-- Contact note -->
-    {% if page.social %}
-      <div class="contact-note">{{ site.contact_note }}</div>
+    <!-- Social -->
+    {% if [page.social](http://page.social) %}
+      <div class="social">
+        <div class="contact-icons">{% social_links %}</div>
+        <div class="contact-note">{{ [site.contact](http://site.contact)_note }}</div>
+      </div>
     {% endif %}
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
