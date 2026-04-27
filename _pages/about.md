@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.khoury.northeastern.edu/'>Khoury College of Computer Sciences</a>, The Roux Institute at Northeastern University.
+subtitle: <a href='https://www.khoury.northeastern.edu/'>Khoury College of Computer Sciences</a>, Northeastern University.
 
 profile:
   align: right
