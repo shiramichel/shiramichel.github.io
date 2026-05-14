@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: assets/pdf/Michel_CV_APR26.pdf
+permalink: assets/pdf/Michel_CV_MAY26.pdf
 title: cv
 nav: true
 nav_order: 5
