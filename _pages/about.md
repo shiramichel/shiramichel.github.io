@@ -23,7 +23,7 @@ latest_posts:
   limit:  # leave blank to include all the blog posts
 ---
 
-I am a **Computer Science PhD candidate** at Northeastern University in Khoury College of Computer Sciences, where I am advised by [Dr. Mahsan Nourani](http://mahsan.page). My research interests are broadly in **Human-Centered Artificial Intelligence (HCAI)** and **Responsible AI**. I **center the perspectives of AI stakeholders and communities** to study human-AI interaction, particularly **challenges of trust and reliance**. I am also passionate about empowering marginalized groups who have been excluded from or harmed by AI systems.
+I am a **Computer Science PhD candidate** at Northeastern University in Khoury College of Computer Sciences, where I am advised by [Dr. Mahsan Nourani](http://mahsan.page). My research interests are broadly in **Human-Centered Artificial Intelligence (HCAI)** and **Responsible AI**. I center the perspectives of **AI stakeholders and communities** to study *human-AI interaction*, particularly **challenges of user trust and reliance**. I am also passionate about empowering marginalized groups who have been excluded from or harmed by AI systems.
 
 I graduated from **Arcadia University** in 2023 with a B.S. in Data Science and a minor in Computer Science. During my undergraduate studies, I worked on statistical modeling with [Dr. Weihong Ni](https://www.arcadia.edu/faculty-and-staff/weihong-ni/) and completed a summer Research Experience for Undergraduates (REU) with [Dr. Bjorn Sandstede](https://bjornsandstede.com/) at **Brown University**.
 
